@@ -129,4 +129,4 @@ supply module for CNC and laboratory use.
   <img src="img/5.png" style="width:49%; height:auto; display:inline-block;"> <img src="img/6.png" style="width:49%; height:auto; display:inline-block;">
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=0x3dlux-zk10022">
+<img src="https://stats.0x3d.net/?site=github_zk10022">
