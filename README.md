@@ -123,10 +123,10 @@ supply module for CNC and laboratory use.
 
 ### Images
 
-<img src="img/1.jpg" style="width:100%; height:auto;">
-<img src="img/2.png" style="width:100%; height:auto;">
-<img src="img/3.png" style="width:100%; height:auto;">
-<img src="img/4.png" style="width:100%; height:auto;">
-<img src="img/5.png" style="width:100%; height:auto;">
-<img src="img/6.png" style="width:100%; height:auto;">
+<div style="text-align:center;">
+  <img src="img/1.jpg" style="width:49%; height:auto; display:inline-block;"> <img src="img/2.png" style="width:46.8%; height:auto; display:inline-block;"><br>
+  <img src="img/3.png" style="width:49%; height:auto; display:inline-block;"> <img src="img/4.png" style="width:49%; height:auto; display:inline-block;"><br>
+  <img src="img/5.png" style="width:49%; height:auto; display:inline-block;"> <img src="img/6.png" style="width:49%; height:auto; display:inline-block;">
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=0x3dlux-zk10022">
