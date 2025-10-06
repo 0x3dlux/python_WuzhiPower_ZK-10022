@@ -1,6 +1,6 @@
 ## Python script to control Wuzhi Power ZK-10022 step-down converters
 
-This is a bare-bones Python script to interface a **Wuzhi Power ZK-10022** CNC step-down converter via the ZK-BT bluetooth adapter. Tested on Linux.
+This is a bare-bones Python script to interface a **Wuzhi Power ZK-10022** (aka ZK10022 aka ZK-10022B) CNC step-down converter via the ZK-BT bluetooth adapter. Tested on Linux.
 
 ### Usage
 
