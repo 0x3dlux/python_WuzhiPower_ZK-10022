@@ -133,4 +133,6 @@ supply module for CNC and laboratory use.
 
 ![](img/5.png)
 
+![](img/6.png)
+
 ![](https://komarev.com/ghpvc/?username=0x3dlux-zk10022)
