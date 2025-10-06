@@ -1,8 +1,8 @@
-# Python script to control Wuzhi Power ZK-10022 step-down converters
+## Python script to control Wuzhi Power ZK-10022 step-down converters
 
 This is a bare-bones Python script to interface a **Wuzhi Power ZK-10022** CNC step-down converter via the ZK-BT bluetooth adapter. Tested on Linux.
 
-## Usage
+### Usage
 
 ```
 usage: wuzhi.py [-h] [-m MAC] [-s] [-l] [-0] [-1] [-v VOLT] [-a AMPS] [-b BACKLIGHT] [-z BUZZER] [-t TIMEOUT] [-r] [-c] [-d]
@@ -27,7 +27,7 @@ options:
   -d, --debug           show me the money
 ```
 
-## Examples
+### Examples
 
 ```
 # ./wuzhi.py --on --volt 10 --amps 5
@@ -103,7 +103,7 @@ Result: 0106 | 00 | 1200 00
 }
 ```
 
-## Hardware specs
+### Hardware specs
 
 The **Wuzhi Power ZK-10022** is a CNC step-down DC adjustable regulated power supply. It is designed
 for applications requiring stable constant voltage and constant current, such as CNC machinery and
@@ -117,11 +117,11 @@ supply module for CNC and laboratory use.
 * Output power: **up to 1500W**
 * CV and CC operation
 
-## Where to buy the hardware
+### Where to buy the hardware
 
 * https://fr.aliexpress.com/item/1005006946184825.html
 
-## Images
+### Images
 
 ![](img/1.jpg)
 ![](img/2.png)
